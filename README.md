@@ -21,3 +21,7 @@ Steps to run Frontend UI in localhost
 2. Install Dependencies:: pip install -r requirements.txt # Install project dependencies using the `requirements.txt` file
 
 3. Run the Fast API server: uvicorn app.main:app --reload
+
+
+#TEST
+#TEST
